@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an incoming master student at the [Department of Computer Science](http://web.cs.toronto.edu).
+I will be joining the [EcoSystem](http://www.cs.toronto.edu/ecosystem/) under the
+supervision of [Professor Gennady Pekhimenko](https://www.cs.toronto.edu/~pekhimenko/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My work revolves around compilers. Hopefully, they are better at generating code
+than monkeys typing on keyboards.
